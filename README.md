@@ -30,17 +30,13 @@
 
 2.Bağımlılıkları yükleyin:
 npm install
-# veya
 yarn install
-# veya
 pnpm install
 
 3.Geliştirme sunucusunu başlatın:
 
 npm run dev
-# veya
 yarn dev
-# veya
 pnpm dev
 
 4. Tarayıcınızda http://localhost:3000 adresini açın.
