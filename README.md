@@ -40,3 +40,9 @@ yarn dev
 pnpm dev
 
 4. Tarayıcınızda http://localhost:3000 adresini açın.
+
+
+<img width="777" alt="Image" src="https://github.com/user-attachments/assets/671a8eca-e256-4597-961b-42e29184f595" />
+
+
+<img width="772" alt="Image" src="https://github.com/user-attachments/assets/ea2d217a-e081-442d-b70d-3ae7b1e3a925" />
